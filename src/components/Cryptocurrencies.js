@@ -6,7 +6,7 @@ import { Card,Row,Col, Input } from 'antd';
 
 
 const Cryptocurrencies = () => {
-  return <div>Cryptocurrencies !  <h1>Crypto</h1></div>;
+  return <div>Cryptocurrencies !  <h1>Crypto 11</h1></div>;
 }
 
 export default Cryptocurrencies
