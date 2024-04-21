@@ -4,6 +4,7 @@ function hello() {
   return (
     <div>
       hello
+      hello
     </div>
   )
 }
